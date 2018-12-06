@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CognitiveServices", "Cognit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bing", "Bing\Bing.csproj", "{2ACEC4FD-6578-4D9A-B8A3-9D9C5A2971AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureSearch", "AzureSearch\AzureSearch.csproj", "{E637B4DC-355B-4A43-BB64-D98F040BA4CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2ACEC4FD-6578-4D9A-B8A3-9D9C5A2971AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ACEC4FD-6578-4D9A-B8A3-9D9C5A2971AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ACEC4FD-6578-4D9A-B8A3-9D9C5A2971AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E637B4DC-355B-4A43-BB64-D98F040BA4CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E637B4DC-355B-4A43-BB64-D98F040BA4CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E637B4DC-355B-4A43-BB64-D98F040BA4CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E637B4DC-355B-4A43-BB64-D98F040BA4CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
